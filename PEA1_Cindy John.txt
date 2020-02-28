@@ -1,0 +1,53 @@
+1. Diagramar una clase llamada producto, con sus atributos y operaciones.
+
+Clase: Producto
+---------------
+Atributos: 
+---------------
+Id_Producto, 
+Nombre_Producto, 
+Descripcion_Producto, 
+Precio, 
+Stock, 
+Id_Categoria
+---------------
+Operaciones:
+Creacion del Producto
+Carga de Stock
+Carga de Imagenes
+Subida al Marcketplace
+Realizar Compra del producto
+Packing del producto
+Entrega del producto al cliente.
+
+2. ¿Qué es un jar y para qué sirve?
+
+Se puede decir que es un archivo que con el se puede ejecutar aplicaciones y diversas herramientas de java.
+
+3. ¿Qué es el patrón MVC?
+
+Las siglas significan Modelo-Vista-Controlador es un patron de arquitectura de software, que separa los datos y la logica implantada en el negocio.
+Es decir; separa ambos conceptos.
+
+4. Declarar un array y asignarle valores.
+
+ArrayList<Integer> numbersList = new ArrayList<Integer>(Arrays.asList(1,4,5,5,4,2,1,3));
+
+4.1 ¿Cómo se obtiene el primer valor del array?
+
+strvalores [0] es decir for (int i = 0; i
+
+4.2 ¿y el último?
+
+< arr.length; i++)
+
+4.3 ¿Con qué estructura de control se itera/recorre un array? de un ejemplo.
+
+Puede ser por una iteracion sobre los indices, simplemente es un bucle simple con un primitivo indice lo que no representa costos elevados.
+
+Object [] arreglo = new Object [10];
+for (int i = 0; i < arr.length; i++)
+
+
+
+
